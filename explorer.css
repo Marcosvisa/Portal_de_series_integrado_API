@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+    background-color: rgb(22, 18, 4);
+    
+}
+.header{
+    background-color: rgb(255, 123, 52);
+    display: flex;
+  justify-content: flex-end;
+}
+
+.header img {
+  transition: transform 0.3s ease; 
+}
+
+.header img:hover {
+  transform: scale(1.1); 
+}
+
+
+div{
+align-items: center;
+  margin: 0px;
+}
+.explorer {
+  display: block;
+  background-color: black;
+  margin: 0px;
+  border-radius: 10px;
+  text-decoration: none;
+  border-radius: 10px; 
+  max-width: 100%;
+  }
+  .explorer h3{
+    text-align: center;
+    color: aliceblue;
+    font-size: small;
+  }
+  
