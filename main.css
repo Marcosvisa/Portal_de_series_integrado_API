@@ -6,7 +6,7 @@ body{
 
 recentes{
     text-align: center;
-    background-color: cornflowerblue;
+    background-color: rgb(0, 0, 0);
     display: block;
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
@@ -86,7 +86,8 @@ table{
 e{
     text-align: center;
     display: block;
-    background-color: rgb(40, 5, 183);
+    align-items: center;
+    background-color: rgb(0, 0, 0);
 
     color: aliceblue;
     font-size: 30px;
@@ -96,7 +97,7 @@ z{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     display: block;
-    background-color: darkgoldenrod;
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
     font-size: 30px;
 }
